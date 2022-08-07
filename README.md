@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # README-FILE
-<h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 🧑‍🤝‍🧑</h2>
-<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin 🧑‍🤝‍🧑</h4>
+<h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 👫</h2>
+<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin 👫</h4>
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">, I am Subashini
 
